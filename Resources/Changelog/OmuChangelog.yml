@@ -1428,3 +1428,11 @@ Entries:
       message: The Chief Medical Officer spawns with a free pair of Medichem Glasses.
   id: 172
   time: '2025-12-10T20:20:50.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Tweak
+      message: >-
+        midround spawns, we shouldn't get the midround blob anymore, we should
+        get heretic's and changelings at appropriate pop.
+  id: 173
+  time: '2025-12-11T12:04:56.0000000+00:00'

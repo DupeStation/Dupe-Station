@@ -8,7 +8,7 @@ If you want to host or create content for SS14, go to the [Space Station 14 repo
 
 ## Links
 
-#[Dupe Station Discord Server](https://discord.gg/745HN9bvBf) | [Dupe Station Wiki](WIP) | [Dupe Station Forums](WIP) | [Dupe Station Patreon](TBD) | Dupe Station Docs (TBD™)
+[Dupe Station Discord Server](https://discord.gg/745HN9bvBf) | [Dupe Station Wiki](WIP) | [Dupe Station Forums](WIP) | [Dupe Station Patreon](TBD) | Dupe Station Docs (TBD™)
 
 ## Documentation/Wiki
 

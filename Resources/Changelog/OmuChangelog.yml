@@ -1673,3 +1673,15 @@ Entries:
         apologize for any inconvenience caused.
   id: 204
   time: '2026-01-01T20:51:33.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Add
+      message: >-
+        Added space shrimps, fish them up. Fry them before a ghost takes it over
+        and fries YOU
+    - type: Tweak
+      message: >-
+        Added crabs to the fishing loot pool. Oh also you can fish up dragons
+        now have fun
+  id: 205
+  time: '2026-01-01T20:52:18.0000000+00:00'
